@@ -65,4 +65,4 @@ Node.js · Express · PostgreSQL · Roboflow · FFmpeg · Next.js · TypeScript 
 
 ---
 
-**[← More case studies](https://valeriasanzjones.vercel.app)**
+**[← More of my work](https://github.com/valeriasanzx)**
